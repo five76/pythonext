@@ -5,8 +5,7 @@ PostgreSQL
    :maxdepth: 6
    :caption: Оглавление
 
-   chapters/dba1/index.rst
-   chapters/dev/index.rst 
+   chapters/01_org/index.rst 
     
 
 Indices and tables
