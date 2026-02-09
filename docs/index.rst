@@ -1,5 +1,5 @@
-PostgreSQL
-##########
+Advaced Python
+##############
 
 .. toctree::
    :maxdepth: 6
